@@ -1,0 +1,7 @@
+Mirror in progress since Thu, 28 Sep 2017 20:31:05 .. please wait!
+winhttrack http://ss16trendbook.minicool.net/# -O "/home/dsreenevasan/websites/k18-minetool-space-teme" -%v 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=4363
+UID=1000
+GID=1000
+START=1506610865
